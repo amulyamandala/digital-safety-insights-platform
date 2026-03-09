@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+dist/
+build/
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# C++
+*.exe
+*.o
+*.obj
+cpp_tools/keyword_analyzer
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+import_log.txt
+process_log.txt
+
+# Artifacts
+.gemini/

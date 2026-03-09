@@ -1,0 +1,8 @@
+selenium
+beautifulsoup4
+webdriver-manager
+pandas
+nltk
+vaderSentiment
+pymongo
+python-dotenv
