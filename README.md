@@ -16,6 +16,11 @@ A complete system to collect, analyze, and visualize discussions about online sa
 - MongoDB (running locally or a connection string)
 - C++ Compiler (g++)
 
+## Dashboard Preview
+The dashboard is now fully operational, displaying analysis results from the 50 sample posts.
+
+![Digital Safety Dashboard](dashboard_preview.png)
+
 ## Setup and Running
 
 ### 1. Data Pipeline
